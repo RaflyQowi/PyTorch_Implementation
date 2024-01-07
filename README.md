@@ -31,6 +31,14 @@ The "CNN Model Architecture from Scratch using PyTorch" directory focuses on imp
 
 - Implementation of the GoogleNet (Inception) architecture, featuring inception modules.
 
+### ResNet Architecture
+
+- Implementation of the Residual Network (ResNet) architecture.
+
+### EfficientNet Architecture
+
+- Implementation of the EfficientNet architecture.
+
 ## Usage
 
 Feel free to explore the directories and use the provided scripts for learning, experimenting, or as a reference for your own projects.
